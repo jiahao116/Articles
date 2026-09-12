@@ -63,4 +63,4 @@ Finally, regarding the possibility that OpenAI may have constructed a counterexa
 
 > *“La question que pose la “conjecture de Hodge” est bien naturelle... Par malheur, en d´epit du mot de “conjecture”, il n’y a, que je sache, pas l’ombre d’une raison d’y croire; on rendrait service aux g´eom`etres si l’on pouvait trancher la question au moyen d’un contre-exemple.”*
 >
-> *“The question posed by the ‘Hodge conjecture’ is a very natural one... Unfortunately, despite the word ‘conjecture’, as far as I know there is not the slightest reason to believe it; one would be doing geometers a service if the question could be settled by means of a counterexample.”*
+> *“The question posed by the ‘Hodge conjecture’ is a very natural one... Unfortunately, despite the word ‘conjecture’, as far as I know there is not the slightest reason to believe it; **one would be doing geometers a service if the question could be settled by means of a counterexample**.”*
