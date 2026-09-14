@@ -1,4 +1,5 @@
 # André Weil and the Hodge Conjecture
+Jiahao Cao
 It is said that OpenAI may very possibly have constructed a counterexample to the Hodge conjecture.André Weil was one of the earliest mathematicians to doubt the Hodge conjecture and to attempt to construct counterexamples, and perhaps also one of those who came closest to doing so successfully.
 
 Weil actually had little direct interaction with Hodge himself. The earliest record seems to be from 1947, when Weil mentioned in a letter to H. Cartan that he was studying Hodge’s book and trying to apply it to algebraic varieties.
