@@ -9,9 +9,9 @@ Weil strongly recognized the importance of Hodge theory, but at the same time sh
 
 Ten years later, Weil wrote *Introduction à l'étude des variétés kählériennes*, rewriting and organizing the Kähler–Hodge techniques in a cleaner language, while stating that this was done to “facilitate the reader’s understanding.”
 
-The notation and organization of Hodge theory in its modern form were to a large extent fixed in Weil’s book. When Weil died, this book was listed in his obituary as the first modern exposition of Hodge theory.
+The notation and organization of Hodge theory in its modern form were to a large extent fixed in Weil’s book. Following Weil’s passing, the book was singled out in his obituary as the first modern exposition of Hodge theory.
 
-Then came the famous first postwar Fields Medal. Hodge was one of the members of the committee who most firmly supported awarding it to Weil, and believed that excluding Weil would amount to “a dereliction of our duty.” Unfortunately, Hodge’s efforts failed. But perhaps in order to avoid being accused of another such dereliction of duty, the Fields Medal subsequently acquired its age limit of forty.
+Then came the famous first postwar Fields Medal. Hodge was among the members of the committee who most strongly supported awarding it to Weil, warning that otherwise they “might be shirking our duty.” His efforts ultimately did not prevail. Perhaps to spare future committees from facing quite the same dilemma, the Fields Medal would later acquire its famous age limit of forty.
 
 At the International Congress of Mathematicians where the prizes were awarded, Weil gave a plenary lecture presenting a unified perspective on number theory and algebraic geometry, summarizing and anticipating much of the development of algebraic geometry over the following decades. Five days later, Hodge presented the original version of the Hodge conjecture in another lecture.
 
