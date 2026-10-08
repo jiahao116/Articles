@@ -68,4 +68,4 @@ Finally, regarding the possibility that OpenAI may have constructed a counterexa
 > *“The question posed by the ‘Hodge conjecture’ is a very natural one... Unfortunately, despite the word ‘conjecture’, as far as I know there is not the slightest reason to believe it; **one would be doing geometers a service if the question could be settled by means of a counterexample**.”*
 
 
-[⭐ Star this website on GitHub(https://github.com/jiahao116/Articles)
+[⭐ Star this website on GitHub](https://github.com/jiahao116/Articles)
